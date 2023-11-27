@@ -1,2 +1,2 @@
-# codebert-cfp
+# CodeBERT CFP
 CodeBERT for CFP size measurement
